@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT Client</string>
+    <string name="connection_error">"Could not connect to server"</string>
+</resources>
